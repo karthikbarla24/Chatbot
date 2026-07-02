@@ -20,7 +20,7 @@ https://chatbot-1-ksw5.onrender.com/
 - Flask
 ## AI Integration
 - Groq API
-- Llama 3.3 70B Versatile Model
+- openai/gpt-oss-120b  Model
 ## Deployment
 - Render
 # 📂 Project Structure
