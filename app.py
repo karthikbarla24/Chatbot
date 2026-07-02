@@ -45,7 +45,7 @@ def chat():
                     "content": user_message
                 }
             ],
-            model="llama-3.1-8b-instant",  # Updated supported model
+            model="openai/gpt-oss-120b"  # Updated supported model
         )
 
         # Extract reply
